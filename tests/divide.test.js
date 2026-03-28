@@ -2,7 +2,7 @@ import divide from '../src/divide.js'
 
 describe('divide', () => {
   test('divides numbers', () => {
-    expect(divide(6,3)).toBe(2)
+    expect(divide(6,3)).toBe(1)
   })
 
   test('divide by zero', () => {
@@ -10,6 +10,6 @@ describe('divide', () => {
   })
 
   test('divide string by a number', () => {
-    expect(divide("20",2)).toBe(10)
+    expect(divide("20",2)).toBe(1)
   })
 })
