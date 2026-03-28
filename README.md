@@ -8,3 +8,6 @@ The test.js -files can be found in the "tests" -folder. Documentation about the 
 
 This repository contains unit tests for the library cloned in the src-folder. The origin of the folder:
 https://github.com/petri-rantanen/AT00BY10
+
+Coveralls coverage badge:
+[![Coverage Status](https://coveralls.io/repos/github/e-kilpi/Ohjelmistojen-yllapito-ja-testaus/badge.svg)](https://coveralls.io/github/e-kilpi/Ohjelmistojen-yllapito-ja-testaus)
